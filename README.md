@@ -1,7 +1,8 @@
 ### Olá. Eu sou Diego, Engenheiro Florestal e (re)iniciante em programação 
 
 
-[![Lignorun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lignorun&count_private=true)](https://github.com/Lignorun/Lignorun/blob/main/README.md)
+[![Lignorun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lignorun&count_private=true&show_icons=true&theme=dracula)](https://github.com/Lignorun/Lignorun)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lignorun&layout=compact&show_icons=true&theme=dracula)](https://github.com/Lignorun)
 
 
 
