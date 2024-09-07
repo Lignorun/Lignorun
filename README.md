@@ -1,4 +1,4 @@
-### Olá. Eu sou Diego, Engenheiro Florestal e (re)iniciante em programação 
+### Hi! My name is Diego, Forest Engineer and Programmer Analyst 
 
 
 [![Lignorun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lignorun&count_private=true&show_icons=true&theme=dracula)](https://github.com/Lignorun/Lignorun)
